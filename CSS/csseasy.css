@@ -1,8 +1,3 @@
-* {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
 body {
     font: 400px Helvetica, sans-serif;
     margin: 100px auto;
@@ -30,6 +25,7 @@ p {
     height: 0.062em;
     margin: 0 0.0650em 0.009em 0;
     width: 0.064em;
+    border: 1px solid black;
 }
 
 #colonies div.stripe {
@@ -39,8 +35,5 @@ p {
 #colonies div.stripe:nth-child(odd) {
     background-color: red;
 }
-#colonies div.stripe:nth-child(8) {
-    position: relative;
-    z-index: 99;
-}
+
 
