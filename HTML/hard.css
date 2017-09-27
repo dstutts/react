@@ -2,17 +2,6 @@ body {
     background:black;
 }
  
-.clearfix:after {
-    display:block;
-    clear:both;
-}
- 
-
-.menu-wrap {
-    width:100%;
-    background:darkgrey;
-}
- 
 .menu {
     width:1000px;
     margin:0px auto;
