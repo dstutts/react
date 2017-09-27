@@ -23,14 +23,11 @@ p {
     height: 1em;
     position: relative;
     width: 1.9em;
+    border: 1px solid black;
 }
 
 .stars {
     float: left;
-    height: 0.062em;
-    margin: 0 0.0650em 0.009em 0;
-    width: 0.064em;
-    border: 1px solid black;
 }
 
 #colonies div.stripe {
